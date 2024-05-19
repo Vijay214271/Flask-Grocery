@@ -23,7 +23,7 @@ APIs: Integration of RESTful APIs for dynamic data handling and interactions.
 Setup and Installation
 
 Clone the Repository:
-git clone https://github.com/yourusername/Flask-Grocery.git
+git clone https://github.com/Vijay214271/Flask-Grocery.git
 cd Flask-Grocery
 
 Create a Virtual Environment:
